@@ -31,6 +31,6 @@ Do you want to see [metalflow](https://github.com/devops-metalflow) in action? C
 
 Prefer the speed and fluidity of chat? Then join our [metalflow community](https://gitter.im/craftslab/devops-metalflow).
 
-### GitHub issues 🔩
+### Issues 🔩
 
 Bugs should be reported as issues in the corresponding repository, e.g., [devops-metalflow/metalflow](https://github.com/devops-metalflow/metalflow/issues), [devops-metalflow/metalweb](https://github.com/devops-metalflow/metalweb/issues), and so forth.
