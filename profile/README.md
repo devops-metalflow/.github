@@ -2,7 +2,7 @@
 
 
 
-👋  Hi! This is [metalflow](https://github.com/devops-metalflow), an open-source, infrastructure management system built in Go.
+👋 Hi! This is [metalflow](https://github.com/devops-metalflow), an open-source, infrastructure management system built in Go.
 
 
 
