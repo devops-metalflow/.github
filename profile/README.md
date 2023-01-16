@@ -20,7 +20,7 @@ Hey! We're glad you're thinking about contributing to [metalflow](https://github
 
 ## 🖥 Demos 
 
-Do you want to see [metalflow](https://github.com/devops-metalflow) in action? Check the list of our demos [in the dedicated repository](https://github.com/devops-metalflow/deploy). 
+Do you want to see [metalflow](https://github.com/devops-metalflow) in action? Check the list of our demos [in the dedicated repository](https://github.com/devops-metalflow/demo). 
 
 
 
